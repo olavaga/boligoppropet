@@ -1,0 +1,23 @@
+baseURL = "http://boligpolitikk.org/"
+languageCode = "nb-no"
+title = "Boligoppropet"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "no"
+
+theme = "hugo-scroll"
+
+[params]
+    copyright = "© Olav Aga"
+
+    description = "Felles opprop for en rettferdig boligpolitikk"
+
+    favicon = "images/favico.jpg"
+
+    images = ["images/sentrert-blokk-mot-sky.jpg"]
+
+    title = "Opprop for en rettferdig boligpolitikk"
+
+    [params.meta]
+        keywords = "politikk, rettferdighet, bolig, oslo, spire, habitat"
