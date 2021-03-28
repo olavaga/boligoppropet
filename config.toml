@@ -4,7 +4,7 @@ title = "Boligoppropet"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-publishDir = "../docs"
+publishDir = "docs"
 
 defaultContentLanguage = "no"
 
