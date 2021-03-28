@@ -4,6 +4,8 @@ title = "Boligoppropet"
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
+publishDir = "../docs"
+
 defaultContentLanguage = "no"
 
 theme = "hugo-scroll"
