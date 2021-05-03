@@ -6,12 +6,11 @@ weight: 4
 
 
 ### Velferdspolitikken tilbake for vanskeligstilte på boligmarkedet 
-Underprioritering av den sosiale boligpolitikken, fra nedbyggingen av Husbanken til den strenge behovsprøvingen i kommunale boliger, gjør at den sosiale boligsosiale politikken ikke lenger fungerer. Vi trenger gode velferdsordninger for de som ikke klarer å skaffe seg et sted å bo. 
+Nedprioritering av den sosiale boligpolitikken, fra nedbyggingen av Husbanken til den strenge behovsprøvingen i kommunale boliger, gjør at den boligsosiale politikken ikke lenger fungerer. Vi trenger gode velferdsordninger for de som ikke klarer å skaffe seg et sted å bo.
 
-Vi krever: 
-
+Vi krever:
 - Forbud mot gjengs leie og kommunalt utbytte i kommunal boligforvaltning
-- Bedre bostøtteordning 
-- Lovfestet plikt for kommunene til å skaffe bolig for vanskeligstilte og utvidet tilbud om kommunal bolig. 
+- Bedre bostøtteordning
+- Lovfestet plikt for kommunene til å skaffe bolig for vanskeligstilte og utvidet kommunalt boligtilbud til flere grupper
 - Langsiktige kontrakter og sterkere oppsigelses- og utkastelsesvern i kommunale boliger
-- Mer ressurser til å bygge og pusse opp kommunale boliger, og en vedtatt minstestandard for kommunale boliger 
+- Mer ressurser til å bygge og pusse opp kommunale boliger, og en vedtatt minstestandard for kommunale boliger
