@@ -6,10 +6,7 @@ weight: 6
 
 ### Tilsluttede organisasjoner
 - Spire
-- Attac
-- Leieboerforeningen
-- Enebakkveien 37
-- Tøyen Boligbyggerlag
 - Habitat Norge
+- Fragment Arkitekter
 
 
