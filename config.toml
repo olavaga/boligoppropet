@@ -17,7 +17,7 @@ theme = "hugo-scroll"
 
     favicon = "images/favico.jpg"
 
-    images = ["images/sentrert-blokk-mot-sky.jpg"]
+    images = ["images/boligoppropet.png"]
 
     title = "Opprop for en rettferdig boligpolitikk"
 
