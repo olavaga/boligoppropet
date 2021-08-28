@@ -7,15 +7,20 @@ weight: 6
 ### Tilsluttede organisasjoner
 - Spire
 - Habitat Norge
+- Leieboerforeningen
+- LO i Oslo
+- Jussbuss - Husleie og gjeldsgruppen
 - Fragment 
 - Svartlamon boligstiftelse
+- Boligopprøret
+- Kritisk bynettverk
+- Lange linjer i byutviklingen - BULLBY
+- Aleneforeldreforeningen
 - Attac
-- Leieboerforeningen
 - Jussbuss - Husleie og gjeldsgruppen
 - Tøyen boligbyggelag
 - Ormsundveien økogrend
 - Enebakkveien 37
-- LO i Oslo
 - Leieboerforeningen - Lokallag for kommunale boliger i Oslo
 
 
