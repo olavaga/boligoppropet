@@ -20,6 +20,6 @@ weight: 6
 - Tøyen boligbyggelag
 - Ormsundveien økogrend
 - Enebakkveien 37
-- Leieboerforeningen - Lokallag for kommunale boliger i Oslo
+- Leieboerforeningen - Lokallag for kommunale leieboere
 
 
