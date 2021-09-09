@@ -17,7 +17,6 @@ weight: 6
 - Lange linjer i byutviklingen - BULLBY
 - Aleneforeldreforeningen
 - Attac
-- Jussbuss - Husleie og gjeldsgruppen
 - Tøyen boligbyggelag
 - Ormsundveien økogrend
 - Enebakkveien 37
