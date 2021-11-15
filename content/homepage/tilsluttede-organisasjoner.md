@@ -14,7 +14,7 @@ weight: 6
 - Svartlamon boligstiftelse
 - Boligopprøret
 - Kritisk bynettverk
-- Lange linjer i byutviklingen - BULLBY
+- Byutviklingens lange linjer - BULLBY
 - Aleneforeldreforeningen
 - Attac
 - Tøyen boligbyggelag
