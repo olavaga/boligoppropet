@@ -1,7 +1,6 @@
 ---
 title: 'Gode Boliger Til en Akseptabel Pris'
 weight: 5
-header_menu: true
 ---
 
 ### Gode boliger til en akseptabel pris
