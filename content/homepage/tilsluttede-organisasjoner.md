@@ -9,6 +9,7 @@ weight: 6
 - Habitat Norge
 - Leieboerforeningen
 - LO i Oslo
+- LO Stavanger
 - Jussbuss - Husleie og gjeldsgruppen
 - Fragment 
 - Svartlamon boligstiftelse
